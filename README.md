@@ -10,7 +10,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/samuel.luk.357?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/samuel.luk.357?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/@samuelgomezzzzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@samuelgomezzzzzzz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samuelgomezzzzzzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@samuelgomezzzzzzz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagem e ferramentas:</h3>
