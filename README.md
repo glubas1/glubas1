@@ -5,7 +5,7 @@
 
 - 📪 Como chegar até mim **Pelo e-mail: samuelgomezpatricio@gmail.com**
 
-- ⚡ Curiosidade **Amo gatos🐈‍⬛**
+- ⚡ Curiosidade: **Amo gatos🐈‍⬛**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
